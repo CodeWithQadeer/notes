@@ -8,7 +8,7 @@ let nArr=[] //initializing an empty array
     
   }
  }
-capitalizeAll("is this working")
+capitalizeAll("Is this working")
 let capitalizedString=nArr.join(" ") //joining array element to string with space between
 console.log(capitalizedString);
        
