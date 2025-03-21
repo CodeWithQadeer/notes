@@ -27,7 +27,7 @@ class Person {
     }
 }
 
-const tajamul=new Person('tajamul',20);
+const tajamul=new Person('Tajamul',20);
 
 console.log(tajamul.getAge());
 
